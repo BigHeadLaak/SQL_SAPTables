@@ -1,4 +1,4 @@
----Customer Claim Data from Qsys on For Bearings,view is designed for Sales team so intercompany is not included
+---Customer Claim Data from Qsys on For Business Unit 1,view is designed for Sales team so intercompany is not included
 
 select
 srqnr as 'Claim Number',
